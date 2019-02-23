@@ -10,5 +10,10 @@ Team Members - <ul>
   </ul>
 
 <br />
+<hr />
+
 
 **Department of Computer Science and Engineering , University of Chittagong ,Bangladesh .**
+
+
+<hr />
