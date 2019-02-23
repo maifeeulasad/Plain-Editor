@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlainEditor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlainEditor_jar</output-path>
+    <root id="archive" name="PlainEditor.jar">
+      <element id="module-output" name="PlainEditor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/itextpdf-5.4.1.jar" path-in-jar="/" />
+      <element id="directory" name="PlainEditorJar" />
+    </root>
+  </artifact>
+</component>
