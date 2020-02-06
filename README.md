@@ -15,6 +15,9 @@ Team Members - <ul>
 
 
 # Snaps:
+
+<p align="center">
+
 ![](https://github.com/maifeeulasad/Plain-Editor/blob/master/~files/Screen%20Shots/1.PNG)
 ![](https://github.com/maifeeulasad/Plain-Editor/blob/master/~files/Screen%20Shots/2.PNG)
 ![](https://github.com/maifeeulasad/Plain-Editor/blob/master/~files/Screen%20Shots/3.PNG)
@@ -34,6 +37,8 @@ Team Members - <ul>
 ![](https://github.com/maifeeulasad/Plain-Editor/blob/master/~files/Screen%20Shots/17.PNG)
 ![](https://github.com/maifeeulasad/Plain-Editor/blob/master/~files/Screen%20Shots/18.PNG)
 ![](https://github.com/maifeeulasad/Plain-Editor/blob/master/~files/Screen%20Shots/19.PNG)
+![](https://github.com/maifeeulasad/Plain-Editor/blob/master/~files/Screen%20Shots/view.PNG)
+</p>
 
 <hr />
 
